@@ -4,14 +4,7 @@
 
 Welcome to my course **Jenkins Pipelines | CI/CD | DevOps**
 
-In this course you'd learn how to create pipelines from scratch. No prior knowledge of Jenkins is required for this course.
 
-Though, a little knowledge of git/github would be good. I therefore recommend to go though my FREE course on [udemy to learn Git & Github.](https://www.udemy.com/course/gitandgithub/?referralCode=2799194A0FCC520AB4C3)
-
-
-<p align="center">
-<a href="https://www.youtube.com/c/xtremeexcel?sub_confirmation=1"><img src="/images/subscribe.gif" width="30%" height="30%"></a>
-</p>
 
 
 ## Content
@@ -61,22 +54,3 @@ Though, a little knowledge of git/github would be good. I therefore recommend to
 [Tutorial 22 - AWS Agent](022_AWS_Agent/README.md)
 
 
-<p align="center">
-<a href="https://www.youtube.com/c/xtremeexcel?sub_confirmation=1"><img src="/images/subscribe.gif" width="30%" height="30%"></a>
-</p>
-
-
-
-**ABOUT THE AUTHOR**
-
-![Kamal](images/kamal.png)
-
-Kamal Girdher is a Lead automation architect, with rich experience on automation of web, mobile and web service applications. He is a Youtuber, blogger and therefore passionate about teaching thousands of people all over the world.
-
-https://www.youtube.com/c/xtremeExcel
-
-https://www.linkedin.com/in/kamal-girdher-08691932/
-
-http://megettingerror.blogspot.in/
-
-http://exceltalk.blogspot.in/
